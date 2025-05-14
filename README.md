@@ -17,7 +17,7 @@ O problema de Empacotamento Unidimensional (Bin Packing) é um clássico problem
 - Sistema Operacional: Ubuntu 18.04 LTS.
 - Linguagem de Programação: C++.
 - Bibliotecas Utilizadas:
-  - `bits/stdc++.h` para o uso de estruturas de dados ,rand e srand.
+  - `bits/stdc++.h` para o uso de estruturas de dados, rand e srand.
 
 ## 3. Instâncias Utilizadas
 
