@@ -4,7 +4,8 @@
 
 ## 1. Introdução
 
-O problema de Empacotamento Unidimensional (Bin Packing) é um clássico problema de otimização combinatória NP-difícil, com diversas aplicações práticas, como alocação de recursos e logística. O objetivo é minimizar o número de "caixas" (bins) necessárias para armazenar um conjunto de "itens" (itens) de diferentes tamanhos, considerando a capacidade limitada de cada caixa.
+O Problema de Job Shop envolve um conjunto de jobs (trabalhos) que devem ser processados por um conjunto de máquinas, cada um com uma sequência fixa de operações. Cada operação deve ser processada por uma máquina específica durante um tempo específico.
+O objetivo é encontrar a sequência de operações nas máquinas de forma a minimizar o tempo total necessário para concluir todos os jobs (makespan), obedecendo às restrições de precedência e disponibilidade das máquinas.
 
 ## 2. Descrição do Hardware e Software Utilizados
 
