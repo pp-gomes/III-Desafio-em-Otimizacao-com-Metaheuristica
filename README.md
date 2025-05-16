@@ -1,5 +1,5 @@
 # III Desafio em Otimização com Metaheurística
-- **Nome da equipe:** The Otimization Hunter:  Metaheuristics
+- **Nome da equipe:** The Optimization Hunter: The Return of Metaheuristics
 - **Equipe:** Enzo Moura de Rezende e Pedro Paulo Gomes do Carmo
 
 ## 1. Introdução
