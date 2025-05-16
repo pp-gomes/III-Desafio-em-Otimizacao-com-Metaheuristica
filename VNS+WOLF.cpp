@@ -1,12 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <sstream>
-#include <string>
-#include <random>
-#include <chrono>
-#include <algorithm>
-#include <climits>
-#include <cmath>
+#include <bits/stdc++.h>
 
 using namespace std;
 
