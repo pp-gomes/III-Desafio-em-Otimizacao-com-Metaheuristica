@@ -24,14 +24,14 @@ O objetivo é encontrar a sequência de operações nas máquinas de forma a min
 
 As instâncias utilizadas são do conjunto clássico de Taillard(http://mistic.heig-vd.ch/taillard/problemes.dir/ordonnancement.dir/ordonnancement.html) para o Job Shop Scheduling Problem, convertidas para o formato compatível com as metaheurísticas implementadas. Foram utilizadas as seguintes instâncias:
 
--Taillard_15x15.txt
--Taillard_20x15.txt
--Taillard_20x20.txt
--Taillard_30x15.txt
--Taillard_30x20.txt
--Taillard_50x15.txt
--Taillard_50x20.txt
--Taillard_100x20.txt
+- Taillard_15x15.txt
+- Taillard_20x15.txt
+- Taillard_20x20.txt
+- Taillard_30x15.txt
+- Taillard_30x20.txt
+- Taillard_50x15.txt
+- Taillard_50x20.txt
+- Taillard_100x20.txt
 
 ## 4. Descrição Detalhada da Metaheurística
 
@@ -54,10 +54,10 @@ Inspirado no comportamento de caça de lobos cinzentos, esse algoritmo utiliza a
 Baseado na estratégia de alimentação em bolha das baleias jubarte, esse algoritmo realiza buscas exploratórias e de intensificação alternadas, sendo eficiente para problemas contínuos e combinatórios.
 
 ### 4.7. Híbridos
--GA + TABU: o GA gera populações iniciais e a Busca Tabu refina as melhores soluções encontradas.
--VNS + GRASP: o GRASP constrói a solução inicial e o VNS executa refinamentos sucessivos.
--VNS + WOLF: explora as vizinhanças via VNS com refinamento final baseado na liderança do GWO.
--WOLF + TABU: GWO encontra boas regiões e a Busca Tabu refina localmente a solução.
+- GA + TABU: o GA gera populações iniciais e a Busca Tabu refina as melhores soluções encontradas.
+- VNS + GRASP: o GRASP constrói a solução inicial e o VNS executa refinamentos sucessivos.
+- VNS + WOLF: explora as vizinhanças via VNS com refinamento final baseado na liderança do GWO.
+- WOLF + TABU: GWO encontra boas regiões e a Busca Tabu refina localmente a solução.
 
 ### 4.8 Variações Testadas
 Durante os testes, foram experimentadas diferentes configurações e abordagens para cada metaheurística com o objetivo de analisar seus efeitos sobre a qualidade das soluções e o tempo de execução. Algumas variações incluem:
@@ -197,8 +197,8 @@ Refinamentos locais (como os aplicados em TABU e VNS) são fundamentais para mel
 A escalabilidade das heurísticas deve ser considerada, já que o custo computacional cresce com o tamanho da instância, especialmente nas combinações mais sofisticadas.
 
 ## 8. Referências
--Taillard, É. D. (1993). Benchmarks for basic scheduling problems. European Journal of Operational Research, 64(2), 278–285.
--Glover, F., & Laguna, M. (1997). Tabu Search. Springer.
--Yang, X.-S. (2010). Nature-Inspired Metaheuristic Algorithms. Luniver Press.
+- Taillard, É. D. (1993). Benchmarks for basic scheduling problems. European Journal of Operational Research, 64(2), 278–285.
+- Glover, F., & Laguna, M. (1997). Tabu Search. Springer.
+- Yang, X.-S. (2010). Nature-Inspired Metaheuristic Algorithms. Luniver Press.
 
 
