@@ -197,8 +197,9 @@ Refinamentos locais (como os aplicados em TABU e VNS) são fundamentais para mel
 A escalabilidade das heurísticas deve ser considerada, já que o custo computacional cresce com o tamanho da instância, especialmente nas combinações mais sofisticadas.
 
 ## 8. Referências
-- Taillard, É. D. (1993). Benchmarks for basic scheduling problems. European Journal of Operational Research, 64(2), 278–285.
-- Glover, F., & Laguna, M. (1997). Tabu Search. Springer.
-- Yang, X.-S. (2010). Nature-Inspired Metaheuristic Algorithms. Luniver Press.
-
+- LIN, Chengran; CAO, Zhengcai; ZHOU, Mengchu. Learning-Based Grey Wolf Optimizer for Stochastic Flexible Job Shop Scheduling. Ieee Transactions On Automation Science And Engineering, [S.L.], v. 19, n. 4, p. 3659-3671, out. 2022. Institute of Electrical and Electronics Engineers (IEEE). http://dx.doi.org/10.1109/tase.2021.3129439.
+- SAOUABI, Mohamed Dhia Eddine; NOURI, Houssem Eddine; DRISS, Olfa Belkahla. A two-level evolutionary algorithm for dynamic scheduling in flexible job shop environment. Evolutionary Intelligence, [S.L.], v. 17, n. 5-6, p. 4133-4153, 23 ago. 2024. Springer Science and Business Media LLC. http://dx.doi.org/10.1007/s12065-024-00976-x.
+- VOLPE, Gaetano; MANGINI, Agostino Marcello; FANTI, Maria Pia. Job Shop Sequencing in Manufacturing Plants by Timed Coloured Petri Nets and Particle Swarm Optimization. Ifac-Papersonline, [S.L.], v. 55, n. 28, p. 350-355, 2022. Elsevier BV. http://dx.doi.org/10.1016/j.ifacol.2022.10.365.
+- XU, Meng; ZHANG, Fangfang; MEI, Yi; ZHANG, Mengjie. Genetic Programming with Multi-case Fitness for Dynamic Flexible Job Shop Scheduling. 2022 Ieee Congress On Evolutionary Computation (Cec), [S.L.], p. 01-08, 18 jul. 2022. IEEE. http://dx.doi.org/10.1109/cec55065.2022.9870340.
+- XU, Hongyi; LI, Minyun. Multi-objective flexible job-shop scheduling problem with improved NSGA2 algorithm. 2024 43Rd Chinese Control Conference (Ccc), [S.L.], p. 2154-2159, 28 jul. 2024. IEEE. http://dx.doi.org/10.23919/ccc63176.2024.10662041.
 
